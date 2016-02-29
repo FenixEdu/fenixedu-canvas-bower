@@ -1,0 +1,37 @@
+{
+  "name": "fenixedu-canvas",
+  "description": "The FenixEdu theme built on top of Twitter's Bootstrap",
+  "version": "2.0.0",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "fenixedu-canvas",
+    "canvas"
+  ],
+  "homepage": "http://fenixedu.org",
+  "main": [
+    "css/bootstrap.min.css",
+    "css/bootstrap.css",
+    "js/bootstrap.min.js",
+    "js/bootstrap.js",
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff",
+    "fonts/fenixedu-icons/*",
+    "fonts/opensans/*",
+    "fonts/titillium/*"
+  ],
+  "ignore": [
+    "/.*"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
